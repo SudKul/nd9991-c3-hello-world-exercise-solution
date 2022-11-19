@@ -4,6 +4,7 @@ Parameters:
     Description: Existing Bucket name
     Type: String
 
+
 Resources:
   WebsiteBucket:
     Type: AWS::S3::Bucket
